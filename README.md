@@ -2,6 +2,10 @@ Internship Platform (Frontend + Backend)
 This repo contains:
 A React (Vite) frontend (`frontend - Copy/`) that provides role-based dashboards (student / provider(org) / admin)
 A Node.js (Express) backend (`backend - Copy/`) that exposes REST APIs under `/api/*`, connects to MongoDB, and supports JWT auth + Google OAuth
+<img width="1600" height="814" alt="7c312e2b-6595-4587-ba8d-0cefa98443f6" src="https://github.com/user-attachments/assets/ab77bcc5-a2f1-452e-b5d8-4ae8bfd7e978" />
+<img width="1600" height="816" alt="02554843-010e-4997-8e25-64e54e4d89a0" src="https://github.com/user-attachments/assets/b584860d-2ed8-4e5a-9c3d-2701eb2e36bd" />
+
+
 ---
 Table of contents
 Tech stack
