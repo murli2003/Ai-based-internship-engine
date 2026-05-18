@@ -1,4 +1,4 @@
-<img width="1600" height="814" alt="14499349-df7a-48e2-8acb-fa40998fb6f2" src="https://github.com/user-attachments/assets/ead42a9c-b9ae-4ec6-9c8b-8850ba612941" />
+
 Internship Platform (Frontend + Backend)
 This repo contains:
 A React (Vite) frontend (`frontend - Copy/`) that provides role-based dashboards (student / provider(org) / admin)
